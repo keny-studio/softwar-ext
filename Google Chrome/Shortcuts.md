@@ -18,7 +18,6 @@
 | Alt + Right        | Open the next page from history           |
 | Ctrl + W           | Close the current tab                     |
 | Ctrl + Shift + W   | Close the current window                  |
-| Ctrl + Shift + Q   | Quit Google Chrome                        |
 | | |
 | GOOGLE CHROME FEATURES | |
 | | |
@@ -44,7 +43,6 @@
 | | |
 | (Type) + Enter | Search with default search engine      |
 | (Type) + Tab   | Search using a different search engine |
-| Ctrl + Enter   | Add `www.` and `.com` and open         |
 | Alt + Enter    | Open search in a new tab               |
 | Ctrl + L       | Jump to the address bar                |
 | Ctrl + K       | Search from anywhere on the page       |
